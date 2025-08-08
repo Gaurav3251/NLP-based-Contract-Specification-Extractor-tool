@@ -38,10 +38,9 @@ Sentence Transformers: For semantic search in Q&A.
 
 👥 Team Members
 
-Gaurav Tarate 
-Shubham Palve
-Atharav Pawar
+Gaurav Tarate | Shubham Palve | Atharav Pawar
 
 
 📄 License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
