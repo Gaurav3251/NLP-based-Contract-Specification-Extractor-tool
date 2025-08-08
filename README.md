@@ -1,7 +1,5 @@
 # NLP-based-Contract-Specification-Extractor-tool
 
-NLP Contract Specification Extractor with Q&A
-
 This project is an AI-powered tool designed to extract and analyze contract specifications from PDF documents, with a focus on construction contracts. It leverages natural language processing (NLP) techniques to identify key information such as materials, tests, standards, and definitions. 
 
 🌟 Key Features
